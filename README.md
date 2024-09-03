@@ -28,5 +28,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ URL here](https://your-solution-url.com)
-- Live Site URL: [ URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/crowdfunding-product-page-solution-Ogf7Fzrw-m](https://www.frontendmentor.io/solutions/crowdfunding-product-page-solution-Ogf7Fzrw-m)
+- Live Site URL: [ https://hummingcoder.github.io/crowdfund-solution/](https://hummingcoder.github.io/crowdfund-solution/)
